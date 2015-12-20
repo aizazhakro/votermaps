@@ -1,0 +1,2722 @@
+{
+  "NA-1": {
+    "Area":"Peshawar-I",
+    "2008_Winner":"Haji Ghulam Ahmad Bilour",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":186909,
+    "2013_Female":133668,
+    "2002_winner":"Mr. Shabir Ahmad",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.99346809194264, 71.56403552979509"
+  },
+  "NA-2": {
+    "Area":"Peshawar-2",
+    "2008_Winner":"Dr. Arbab Alamgir Khan Khalil",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":192239,
+    "2013_Female":144162,
+    "2002_winner":"Maulana Rehmat Ullah",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.933139020412526, 71.49638752056376"
+  },
+  "NA-3": {
+    "Area":"Peshawar-3",
+    "2008_Winner":"Noor Alam Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":218853,
+    "2013_Female":164871,
+    "2002_winner":"Qari Fayazur Rehman Alvi",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.06509902285304, 71.56816909598501"
+  },
+  "NA-4": {
+    "Area":"Peshawar-4",
+    "2008_Winner":"Arbab Muhammad Zahir Khan",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":208300,
+    "2013_Female":144146,
+    "2002_winner":"Mr.Sabir Hussain Awan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.828636172347196, 71.5369517271057"
+  },
+  "NA-5": {
+    "Area":"Nowshera-1",
+    "2008_Winner":"Engr. Muhammed Tariq Khattak",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":180206,
+    "2013_Female":140069,
+    "2002_winner":"Qazi Hussain Ahmad",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.97217641375673, 71.88255219284292"
+  },
+  "NA-6": {
+    "Area":"Nowshera-2",
+    "2008_Winner":"Masood Abbas",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":167106,
+    "2013_Female":132167,
+    "2002_winner":"Maulana Hamid-ul-Haq Haqani",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.766079618915214, 71.70585961842994"
+  },
+  "NA-7": {
+    "Area":"Charsadda-1",
+    "2008_Winner":"Asfandiyar Wali Khan",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":212832,
+    "2013_Female":163583,
+    "2002_winner":"Maulana Muhammad Gohar Shah",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.15958237545503, 71.76696793398833"
+  },
+  "NA-8": {
+    "Area":"Charsadda-2",
+    "2008_Winner":"Aftab Ahmad Khan Sherpao",
+    "2008_Party":"Pakistan Peoples Party (Sherpao)",
+    "2013_Male":193051,
+    "2013_Female":135991,
+    "2002_winner":"Mr.Aftab Ahmad Khan Sherpao",
+    "2002_party":"Pakistan Peoples party(Sherpao)",
+    "geometry":"34.15104846741698, 71.68791748694571"
+  },
+  "NA-9": {
+    "Area":"Mardan-I",
+    "2008_Winner":"Himayat Ullah Mayar",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":197019,
+    "2013_Female":139158,
+    "2002_winner":"Mr.Shujaul Mulk",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.17365820237119, 71.94826262475533"
+  },
+  "NA-10": {
+    "Area":"Mardan-2",
+    "2008_Winner":"Maulana Mohammad Qasim",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":190235,
+    "2013_Female":131425,
+    "2002_winner":"Maulana Muhammad Qasim",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.37420981569204, 72.19287472632163"
+  },
+  "NA-11": {
+    "Area":"Mardan-3",
+    "2008_Winner":"Khanzada Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":190149,
+    "2013_Female":139136,
+    "2002_winner":"Maulana Attaur-Rehman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.43087457691881, 72.40709626681542"
+  },
+  "NA-12": {
+    "Area":"Swabi-1",
+    "2008_Winner":"Engineer Usman Khan Tarkai",
+    "2008_Party":"Independent",
+    "2013_Male":200516,
+    "2013_Female":151159,
+    "2002_winner":"Mr.Muhammad Usman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.183343096136944, 72.18168514941271"
+  },
+  "NA-13": {
+    "Area":"Swabi-2",
+    "2008_Winner":"Perviz Khan Advocate",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":209360,
+    "2013_Female":153419,
+    "2002_winner":"Maulana Khalil Ahmed",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.112007771866075, 72.59524153371376"
+  },
+  "NA-14": {
+    "Area":"Kohat",
+    "2008_Winner":"Pir Dilawar Shah",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":233545,
+    "2013_Female":175830,
+    "2002_winner":"Mufti Ibrar Sultan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.580870064163236, 71.4411639010242"
+  },
+  "NA-15": {
+    "Area":"Karak",
+    "2008_Winner":"Mufti Ajmal Khan",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":177515,
+    "2013_Female":137572,
+    "2002_winner":"Mr.Shah Abdul Aziz",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.1159820736027, 71.11002236635318"
+  },
+  "NA-16": {
+    "Area":"Hangu",
+    "2008_Winner":"Syed Haider Ali Shah",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":126444,
+    "2013_Female":88259,
+    "2002_winner":"Mr.Akhunzada Muhammad Sadiq",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.428004489237985, 70.8966925963498"
+  },
+  "NA-17": {
+    "Area":"Abbottabad-1",
+    "2008_Winner":"Sardar Mehtab Ahmed Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":189775,
+    "2013_Female":148490,
+    "2002_winner":"Mr.Amanullah Khan Jadoon",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"34.164288204791504, 73.232948041187"
+  },
+  "NA-18": {
+    "Area":"Abbottabad-2",
+    "2008_Winner":"Murtaza Javed Abbasi",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":191884,
+    "2013_Female":145040,
+    "2002_winner":"Sardar Muhammad Yaqoob",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"34.05624192800904, 73.14918420863751"
+  },
+  "NA-19": {
+    "Area":"Haripur",
+    "2008_Winner":"Sardar Muhammad Mushtaq Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":296098,
+    "2013_Female":235767,
+    "2002_winner":"Mr.Umer Ayub Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"33.99365080837229, 72.93357721668235"
+  },
+  "NA-20": {
+    "Area":"Mansehra-1",
+    "2008_Winner":"Sardar Shah Jehan Yousif",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":236683,
+    "2013_Female":178508,
+    "2002_winner":"Sardar Shah Jehan Yousuf",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"34.327274380684045, 73.20408760377859"
+  },
+  "NA-21": {
+    "Area":"Mansehra-2",
+    "2008_Winner":"Faiz Muhammad Khan",
+    "2008_Party":"",
+    "2013_Male":222572,
+    "2013_Female":169786,
+    "2002_winner":"Maulana Abdul Malik",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.533428620611815, 73.3586157713894"
+  },
+  "NA-22": {
+    "Area":"Batagram",
+    "2008_Winner":"Muhammad Nawaz Khan",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":117917,
+    "2013_Female":87062,
+    "2002_winner":"Qari Muhammad Yousaf",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.6739447768841, 73.03195449724956"
+  },
+  "NA-23": {
+    "Area":"Kohistan",
+    "2008_Winner":"Mehboobullah",
+    "2008_Party":"Independent",
+    "2013_Male":72181,
+    "2013_Female":54847,
+    "2002_winner":"Molvi Abdul Haleem",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"35.32542453997209, 73.26670622168035"
+  },
+  "NA-24": {
+    "Area":"D.I. Khan",
+    "2008_Winner":"Faisal Karim Kundi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":215810,
+    "2013_Female":175186,
+    "2002_winner":"Maulana Fazal-ur-Rehman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"31.827103301321916, 70.89561660674781"
+  },
+  "NA-25": {
+    "Area":"D.I. Khan-cum- Tank",
+    "2008_Winner":"Atta ur Rehman",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":204767,
+    "2013_Female":161783,
+    "2002_winner":"Maulana Fazal-ur-Rehman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"32.02121320197394, 70.41634824565813"
+  },
+  "NA-26": {
+    "Area":"Bannu",
+    "2008_Winner":"Maulna Fazal Ur Rehman",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":263344,
+    "2013_Female":180715,
+    "2002_winner":"Maulana Nasib Ali Shah",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"32.98907935363851, 70.60619679959359"
+  },
+  "NA-27": {
+    "Area":"Lakki Marwat",
+    "2008_Winner":"Hamayun Saifullah Khan",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":186848,
+    "2013_Female":143426,
+    "2002_winner":"Maulana Amanullah Khan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA) 65938",
+    "geometry":"32.629286160710606, 70.87776150401214"
+  },
+  "NA-28": {
+    "Area":"Bunair",
+    "2008_Winner":"Abdul Matin Khan",
+    "2008_Party":"Independent",
+    "2013_Male":195198,
+    "2013_Female":164821,
+    "2002_winner":"Mr.Sher Akbar Khan Advocate",
+    "2002_party":"Pakistan Peoples party(Sherpao)",
+    "geometry":"34.972591544653895, 72.26559118378282"
+  },
+  "NA-29": {
+    "Area":"Swat-1",
+    "2008_Winner":"Muzafer ul Mulk",
+    "2008_Party":"Awami National Party (ANP)",
+    "2013_Male":288598,
+    "2013_Female":232474,
+    "2002_winner":"Qari Abdul Baees Saddiqui",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"35.02880480789018, 72.10089696289378"
+  },
+  "NA-30": {
+    "Area":"Swat-2",
+    "2008_Winner":"Syed Allauddin",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":256101,
+    "2013_Female":204647,
+    "2002_winner":"Mr.Fazal-e-Subhan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"35.26905908711088, 72.54710901978308"
+  },
+  "NA-31": {
+    "Area":"Shanglapar",
+    "2008_Winner":"Ameer Maqam",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":163413,
+    "2013_Female":133310,
+    "2002_winner":"Mr.Amir Muqam",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.854515313255526, 72.73926494652028"
+  },
+  "NA-32": {
+    "Area":"Chitral",
+    "2008_Winner":"Shehzada Mohi-ud-din",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":120530,
+    "2013_Female":86380,
+    "2002_winner":"Mr.Abdul Akbar Khan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"36.06819898845424, 71.87288871951205"
+  },
+  "NA-33": {
+    "Area":"Upper Dir",
+    "2008_Winner":"Najmuddin Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":229130,
+    "2013_Female":138905,
+    "2002_winner":"Molana Asad Ullah",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"35.47075728628049, 72.10085571379102"
+  },
+  "NA-34": {
+    "Area":"Lower Dir",
+    "2008_Winner":"Malik Azmat Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":297766,
+    "2013_Female":206325,
+    "2002_winner":"Qazi Hussain Ahmad",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"35.08518843159358, 71.91948809480812"
+  },
+  "NA-35": {
+    "Area":"Malakand",
+    "2008_Winner":"Lal Muhammad Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":177376,
+    "2013_Female":133796,
+    "2002_winner":"Maulana Muhammad Inayat-ur-Rehman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"34.56091551346554, 71.8949371145593"
+  },
+  "NA-36": {
+    "Area":"Tribal Area-I",
+    "2008_Winner":"Bilal Rehman",
+    "2008_Party":"Independent",
+    "2013_Male":100477,
+    "2013_Female":25530,
+    "2002_winner":"Maulana Ghulam Muhammad Sadiq",
+    "2002_party":"Independent",
+    "geometry":"34.46281418460658, 71.33649713513296"
+  },
+  "NA-37": {
+    "Area":"Tribal Area-II",
+    "2008_Winner":"Sajid Hussain Turi",
+    "2008_Party":"Independent",
+    "2013_Male":78418,
+    "2013_Female":62772,
+    "2002_winner":"Dr. Sayed Javaid Hussain Mian",
+    "2002_party":"Independent",
+    "geometry":"33.90517595245133, 70.11409416550953"
+  },
+  "NA-38": {
+    "Area":"Tribal Area-III",
+    "2008_Winner":"Munir Khan Orakzai",
+    "2008_Party":"Independent",
+    "2013_Male":59018,
+    "2013_Female":28975,
+    "2002_winner":"Mr.Munir Khan Orakzai",
+    "2002_party":"Independent",
+    "geometry":"33.57240248655555, 70.51494271896547"
+  },
+  "NA-39": {
+    "Area":"Tribal Area-IV",
+    "2008_Winner":"Jawad Hussain",
+    "2008_Party":"Independent",
+    "2013_Male":88569,
+    "2013_Female":34766,
+    "2002_winner":"Dr. Sayed Ghazi Gulab Jamal",
+    "2002_party":"Independent",
+    "geometry":"33.66450366665706, 70.8671453214613"
+  },
+  "NA-40": {
+    "Area":"Tribal Area-V",
+    "2008_Winner":"Mohammad Kamran Khan",
+    "2008_Party":"Independent",
+    "2013_Male":107968,
+    "2013_Female":18513,
+    "2002_winner":"Molvi Nek Zaman",
+    "2002_party":"Independent",
+    "geometry":"32.160814144619614, 70.4438046875"
+  },
+  "NA-41": {
+    "Area":"Tribal Area-VI",
+    "2008_Winner":"Moulana Abul Malik Wazir",
+    "2008_Party":"Istiqlal Party",
+    "2013_Male":64170,
+    "2013_Female":29907,
+    "2002_winner":"Mr.Abdul Malik",
+    "2002_party":"Indepndent",
+    "geometry":"32.33408674930423, 69.66110759437629"
+  },
+  "NA-42": {
+    "Area":"Tribal Area-VII",
+    "2008_Winner":"-",
+    "2008_Party":"-",
+    "2013_Male":84076,
+    "2013_Female":45885,
+    "2002_winner":"Mr.Muhammad Miraj-ud-Din",
+    "2002_party":"Independent",
+    "geometry":"32.462260206327365, 70.26841699094143"
+  },
+  "NA-43": {
+    "Area":"Tribal Area-VIII",
+    "2008_Winner":"Shaukatullah Khan",
+    "2008_Party":"Independent",
+    "2013_Male":75319,
+    "2013_Female":43769,
+    "2002_winner":"Maulvi Muhammad Sadiq",
+    "2002_party":"Independent",
+    "geometry":"34.6755, 71.66309999999999"
+  },
+  "NA-44": {
+    "Area":"Tribal Area-IX",
+    "2008_Winner":"Syed Akhonzada Chittan",
+    "2008_Party":"Independent",
+    "2013_Male":86565,
+    "2013_Female":49469,
+    "2002_winner":"Mr.Haroon Rashid",
+    "2002_party":"Independent",
+    "geometry":"34.781494564613595, 71.40379842692619"
+  },
+  "NA-45": {
+    "Area":"Tribal Area-X",
+    "2008_Winner":"Noor Ul Haq Qadri",
+    "2008_Party":"Independent",
+    "2013_Male":73894,
+    "2013_Female":27378,
+    "2002_winner":"Mr.Noor-ul-Haq Qadri",
+    "2002_party":"Independent",
+    "geometry":"33.837804169431635, 71.3363827623715"
+  },
+  "NA-46": {
+    "Area":"Tribal Area-XI",
+    "2008_Winner":"Hamidullah Jan Afridi",
+    "2008_Party":"Independent",
+    "2013_Male":84127,
+    "2013_Female":10081,
+    "2002_winner":"Maulana Khalilur Rehman Afridi",
+    "2002_party":"Independent",
+    "geometry":"34.08198011851684, 71.1670264081406"
+  },
+  "NA-47": {
+    "Area":"Tribal Area-XII",
+    "2008_Winner":"Zafar Baig Bhatani",
+    "2008_Party":"Independent",
+    "2013_Male":83393,
+    "2013_Female":47269,
+    "2002_winner":"Dr.Naseem Afridi",
+    "2002_party":"Independent",
+    "geometry":"33.685916553311976, 71.50121528833836"
+  },
+  "NA-48": {
+    "Area":"Islamabad-1",
+    "2008_Winner":"Anjum Aqeel Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":156606,
+    "2013_Female":137587,
+    "2002_winner":"Mian Muhammad Aslam",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"33.69646974205532, 73.04965040196214"
+  },
+  "NA-49": {
+    "Area":"Islamabad-2",
+    "2008_Winner":"Dr.Ch.Tariq Fazal",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":181067,
+    "2013_Female":153973,
+    "2002_winner":"Syed Nayyar Hussain Bokhari",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"33.7324941419635, 73.1766469787384"
+  },
+  "NA-50": {
+    "Area":"Rawalpindi-1",
+    "2008_Winner":"Shahid Khaqan Abbasi",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":239239,
+    "2013_Female":203158,
+    "2002_winner":"Mr.Ghulam Murtaza Satti",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"33.58733701517803, 73.39570267125316"
+  },
+  "NA-51": {
+    "Area":"Rawalpindi-2",
+    "2008_Winner":"Raja Pervaiz Ashraf",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":241455,
+    "2013_Female":211068,
+    "2002_winner":"Raja Pervaiz Ashraf",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"33.30712474464284, 73.2652310789374"
+  },
+  "NA-52": {
+    "Area":"Rawalpindi-3",
+    "2008_Winner":"Capt. (R) Safdar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":246124,
+    "2013_Female":209063,
+    "2002_winner":"Chaudhary Nissar Ali Khan",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"33.47573294483378, 73.08260120829641"
+  },
+  "NA-53": {
+    "Area":"Rawalpindi-4",
+    "2008_Winner":"Ch. Nisar Ali Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":205351,
+    "2013_Female":176768,
+    "2002_winner":"Mr.Ghulam Sarwar Khan",
+    "2002_party":"Independent",
+    "geometry":"33.73415459656788, 72.79967768994698"
+  },
+  "NA-54": {
+    "Area":"Rawalpindi-5",
+    "2008_Winner":"Malik Abrar Ahmad",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":161059,
+    "2013_Female":139873,
+    "2002_winner":"Mr.Zamurd Khan Advocate",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"33.58619166615071, 73.05718423967073"
+  },
+  "NA-55": {
+    "Area":"Rawalpindi-6",
+    "2008_Winner":"Malik Shakil Ahmed Awan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":177951,
+    "2013_Female":146071,
+    "2002_winner":"Sheikh Rasheed Ahmad",
+    "2002_party":"Independent",
+    "geometry":"33.62738916942552, 73.01820409316974"
+  },
+  "NA-56": {
+    "Area":"Rawalpindi-7",
+    "2008_Winner":"Muhammad Hanif Abbasi",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":154466,
+    "2013_Female":133957,
+    "2002_winner":"Sheikh Rasheed Ahmad",
+    "2002_party":"Independent",
+    "geometry":"33.63898736540521, 73.08230996349289"
+  },
+  "NA-57": {
+    "Area":"Attock-1",
+    "2008_Winner":"SHEIKH AFTAB AHMAD",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":195986,
+    "2013_Female":162225,
+    "2002_winner":"Malik Amin Aslam Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"33.77412463726048, 72.36503314285414"
+  },
+  "NA-58": {
+    "Area":"Attock-2",
+    "2008_Winner":"Ch. Pervaiz Elahi",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":193891,
+    "2013_Female":168181,
+    "2002_winner":"Malik Allah Yar Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"33.433292941354686, 72.02995230117654"
+  },
+  "NA-59": {
+    "Area":"Attock-3",
+    "2008_Winner":"SARDAR SALIM HAIDER",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":171945,
+    "2013_Female":140652,
+    "2002_winner":"Mrs.Eman Wasim",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"33.570699899231734, 72.63419599977317"
+  },
+  "NA-60": {
+    "Area":"Chakwal-1",
+    "2008_Winner":"AYAZ AMIR",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":253657,
+    "2013_Female":232413,
+    "2002_winner":"Major � Tahir Iqbal",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.92818047865429, 72.85668186089174"
+  },
+  "NA-61": {
+    "Area":"Chakwal-2",
+    "2008_Winner":"Muhammad Faiz Tamman",
+    "2008_Party":"",
+    "2013_Male":236599,
+    "2013_Female":207078,
+    "2002_winner":"Mr.Muhammad Faiz Malik",
+    "2002_party":"Independent",
+    "geometry":"32.930491939568995, 72.41585553791856"
+  },
+  "NA-62": {
+    "Area":"Jhelum-1",
+    "2008_Winner":"Raja Muhammad Safdar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":208796,
+    "2013_Female":180655,
+    "2002_winner":"Ch. Shahbaz Hussain",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.93907427337144, 73.72049939757744"
+  },
+  "NA-63": {
+    "Area":"Jhelum-2",
+    "2008_Winner":"Raja Muhammad Asad Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":209548,
+    "2013_Female":177009,
+    "2002_winner":"Raja Muhammad Asad Khan",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"32.90513306412909, 73.37578855682773"
+  },
+  "NA-64": {
+    "Area":"Sargodha-I",
+    "2008_Winner":"Nadeem Afzal Gondal",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":235658,
+    "2013_Female":179833,
+    "2002_winner":"Mr.Inam-ul-Haq Paracha",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.38478569026645, 72.93081845969755"
+  },
+  "NA-65": {
+    "Area":"Sargodha- II",
+    "2008_Winner":"Ch. Ghais Ahmed Mela",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":186530,
+    "2013_Female":136811,
+    "2002_winner":"Ch. Ghias Ahmed Mela",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.246665142818266, 72.93084177442984"
+  },
+  "NA-66": {
+    "Area":"Sargodha III",
+    "2008_Winner":"Tasneem Ahmed Qureshi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":209774,
+    "2013_Female":174357,
+    "2002_winner":"Tasneem Ahmed Qureshi",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.2489949306975, 72.70972012626407"
+  },
+  "NA-67": {
+    "Area":"Sargodha-IV",
+    "2008_Winner":"Ch Anwar Ali Cheema",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":204414,
+    "2013_Female":161195,
+    "2002_winner":"Ch. Anwar Ali Cheema",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.045514413330054, 72.72896007014333"
+  },
+  "NA-68": {
+    "Area":"Sargodha-V",
+    "2008_Winner":"Syed Javed Hassnain Shah",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":210332,
+    "2013_Female":162900,
+    "2002_winner":"Mr.Mazhar Ahmed Qureshi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.95173576970911, 72.49000159560751"
+  },
+  "NA-69": {
+    "Area":"Khushab- I",
+    "2008_Winner":"Sumaira Malik",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":182523,
+    "2013_Female":154028,
+    "2002_winner":"Mrs.Sumera Malik",
+    "2002_party":"National Alliance",
+    "geometry":"32.28899907450643, 72.31697109987226"
+  },
+  "NA-70": {
+    "Area":"Khushab- II",
+    "2008_Winner":"Malik Shakir Bashir Awan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":187893,
+    "2013_Female":156027,
+    "2002_winner":"Malik Muhammad Saifullah Tiwana",
+    "2002_party":"Independent",
+    "geometry":"31.730685742033327, 71.77452799821367"
+  },
+  "NA-71": {
+    "Area":"Mianwali-I",
+    "2008_Winner":"Nawab Zada Malik Amad Khan",
+    "2008_Party":"Independent",
+    "2013_Male":208915,
+    "2013_Female":178118,
+    "2002_winner":"Mr.Imran Khan",
+    "2002_party":"Pakistan Tehreek-e- Insaf (PTI)",
+    "geometry":"32.569496286585796, 71.53414378845719"
+  },
+  "NA-72": {
+    "Area":"Mianwali-II",
+    "2008_Winner":"Humair Hayat Rokhari",
+    "2008_Party":"Independent",
+    "2013_Male":204680,
+    "2013_Female":166694,
+    "2002_winner":"Dr. Sher Afgan Khan",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.24436082804356, 71.42981536824709"
+  },
+  "NA-73": {
+    "Area":"Bhakkar- I",
+    "2008_Winner":"Abdul Majeed Khan",
+    "2008_Party":"Independent",
+    "2013_Male":189252,
+    "2013_Female":147513,
+    "2002_winner":"Mr.Muhammad Sana Ullah Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.63018155257625, 71.07551683983752"
+  },
+  "NA-74": {
+    "Area":"Bhakkar- II",
+    "2008_Winner":"Rashid Akbar Khan",
+    "2008_Party":"Independent",
+    "2013_Male":209329,
+    "2013_Female":165830,
+    "2002_winner":"Ch. Shujat Hussain",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.374928388287334, 71.38176301821409"
+  },
+  "NA-75": {
+    "Area":"Faisalabad-I",
+    "2008_Winner":"Tariq Mehmood Bajwa.",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":187310,
+    "2013_Female":134458,
+    "2002_winner":"Lt Col � Ghulam Rasool Sahi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.516673996280012, 73.40736883676732"
+  },
+  "NA-76": {
+    "Area":"Faisalabad- II",
+    "2008_Winner":"Malik Nawab Sher Waseer",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":184509,
+    "2013_Female":144757,
+    "2002_winner":"Mr.Muhammad Wasi Zafar",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.325013329153656, 73.45818058046507"
+  },
+  "NA-77": {
+    "Area":"Faisalabad- III",
+    "2008_Winner":"Muhammad Asim Nazir",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":165651,
+    "2013_Female":128097,
+    "2002_winner":"Ch. Muhammad Asim Nazir",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.13950007955333, 73.2027404010837"
+  },
+  "NA-78": {
+    "Area":"Faisalabad-IV",
+    "2008_Winner":"Rahila Perveen.",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":172192,
+    "2013_Female":130039,
+    "2002_winner":"Mr.Rajab Ali Khan Baluch",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.83409280583773, 73.01183099261016"
+  },
+  "NA-79": {
+    "Area":"Faisalabad-V",
+    "2008_Winner":"Rana Muhammad Farooq Saeed Khan.",
+    "2008_Party":"Independent",
+    "2013_Male":190431,
+    "2013_Female":145428,
+    "2002_winner":"Mr.Muhammad Safdar Shaker",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.934223818773972, 72.9747803961667"
+  },
+  "NA-80": {
+    "Area":"Faisalabad-VI",
+    "2008_Winner":"Rana Asif Toseef",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":193111,
+    "2013_Female":150466,
+    "2002_winner":"Mr.Asif Tauseef",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.042526103929156, 72.94868420925059"
+  },
+  "NA-81": {
+    "Area":"Faisalabad-VII",
+    "2008_Winner":"Saeed Iqbal.",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":195595,
+    "2013_Female":148436,
+    "2002_winner":"Dr. Nisar Ahmad",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.160121588989337, 72.85117589287381"
+  },
+  "NA-82": {
+    "Area":"Faisalabad-VIII",
+    "2008_Winner":"Sahib Zada Haji Muhammad Fazal Karim",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":192788,
+    "2013_Female":150846,
+    "2002_winner":"Mr.Sahib Zada Haji Muhammad Fazal Karim",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.477362609078245, 73.14234859547219"
+  },
+  "NA-83": {
+    "Area":"Faisalabad-IX",
+    "2008_Winner":"Muhammad Ijaz Virk Advocate.",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":203406,
+    "2013_Female":164965,
+    "2002_winner":"Mr.Mushtaq Ali Cheema",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.399538927770305, 73.18626819991869"
+  },
+  "NA-84": {
+    "Area":"Faisalabad-X",
+    "2008_Winner":"Ch. Abid Sher Ali",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":173934,
+    "2013_Female":134966,
+    "2002_winner":"Mr.Abid Ali",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.35319169932552, 73.04618498341563"
+  },
+  "NA-85": {
+    "Area":"Faisalabad-XI",
+    "2008_Winner":"Haji Muhammad Akram Ansari.",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":186862,
+    "2013_Female":145112,
+    "2002_winner":"Raja Nadir Pervaiz",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.44525559186096, 73.0201090360789"
+  },
+  "NA-86": {
+    "Area":"Jhang-I",
+    "2008_Winner":"Syed Anayat Ali Shah",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":162263,
+    "2013_Female":127054,
+    "2002_winner":"Mr.Muhammad Tahir Shah",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.713840914659443, 72.9836616923792"
+  },
+  "NA-87": {
+    "Area":"Jhang-II",
+    "2008_Winner":"Ghulam Bibi Bharwana",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":207257,
+    "2013_Female":160360,
+    "2002_winner":"Mst.Ghulam Bibi Bharwana",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.292809465609015, 72.50235977523334"
+  },
+  "NA-88": {
+    "Area":"Jhang-III",
+    "2008_Winner":"Makhdoom Faisal Saleh Hayat",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":156203,
+    "2013_Female":121773,
+    "2002_winner":"Makhdoom Syed Faisal Saleh Hayyat",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.17539026438866, 72.11372039448793"
+  },
+  "NA-89": {
+    "Area":"Jhang-IV",
+    "2008_Winner":"Sheikh Waqas Akram",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":160173,
+    "2013_Female":130382,
+    "2002_winner":"Maulana Muhammad Azam Tariq",
+    "2002_party":"Independent",
+    "geometry":"31.17470652313312, 72.37052214740834"
+  },
+  "NA-90": {
+    "Area":"Jhang-V",
+    "2008_Winner":"Saima Akhtar Bharwana",
+    "2008_Party":"Independent",
+    "2013_Male":142605,
+    "2013_Female":100598,
+    "2002_winner":"Ms.Saima Akhtar Bharwana",
+    "2002_party":"Independent",
+    "geometry":"30.97005456049999, 72.2689056457782"
+  },
+  "NA-91": {
+    "Area":"Jhang-VI",
+    "2008_Winner":"Muhammad Mehboob Sultan",
+    "2008_Party":"",
+    "2013_Male":162792,
+    "2013_Female":116250,
+    "2002_winner":"Mr.Sahibzada Muhammad Mehboob Sultan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.98838425962865, 71.96816110292548"
+  },
+  "NA-92": {
+    "Area":"Toba Tek Singh- I",
+    "2008_Winner":"Farkhanda Amjad Warraich",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":200930,
+    "2013_Female":153546,
+    "2002_winner":"Mr.Amjad Ali Warriach",
+    "2002_party":"Pakistan Muslim League(J)",
+    "geometry":"31.12066874759871, 72.67269769246604"
+  },
+  "NA-93": {
+    "Area":"Toba Tek Singh- II",
+    "2008_Winner":"Muhammad Junaid Anwaar Chudhary",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":200821,
+    "2013_Female":152024,
+    "2002_winner":"Mr.Muhammad Farhan Latif",
+    "2002_party":"Independent",
+    "geometry":"30.95121463826278, 72.62047989373639"
+  },
+  "NA-94": {
+    "Area":"Toba Tek Singh- III",
+    "2008_Winner":"Riaz Fatiyana",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":215115,
+    "2013_Female":167099,
+    "2002_winner":"Mr.Riaz Fatiana",
+    "2002_party":"Independent",
+    "geometry":"30.632730655728537, 72.4419408343083"
+  },
+  "NA-95": {
+    "Area":"Gujranwala-I",
+    "2008_Winner":"Usman Ibrahim",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":185353,
+    "2013_Female":136029,
+    "2002_winner":"Ch. Imran Ullah Advocate",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.14851265982049, 74.22619064180208"
+  },
+  "NA-96": {
+    "Area":"Gujranwala-II",
+    "2008_Winner":"Eng:Khurram Dastgir Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":174160,
+    "2013_Female":132304,
+    "2002_winner":"Qazi Hameed Ullah Khan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"32.20018758750659, 74.19529583066287"
+  },
+  "NA-97": {
+    "Area":"Gujranwala-III",
+    "2008_Winner":"Ch. Mehmood Bashir Virk",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":191834,
+    "2013_Female":142201,
+    "2002_winner":"Ch. Shahid Akram Bhinder",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.23439669988259, 74.25330718462396"
+  },
+  "NA-98": {
+    "Area":"Gujranwala-IV",
+    "2008_Winner":"Imtiaz Safdar Warraich",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":190938,
+    "2013_Female":140985,
+    "2002_winner":"Mr.Imtiaz Safdar",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.1222922052508, 74.16814979323192"
+  },
+  "NA-99": {
+    "Area":"Gujranwala-V",
+    "2008_Winner":"Rana Nazir Ahmad Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":190129,
+    "2013_Female":152289,
+    "2002_winner":"Rana Umar Nazir Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.04085841590308, 74.40712126213703"
+  },
+  "NA-100": {
+    "Area":"Gujranwala-VI",
+    "2008_Winner":"Ch. Tassaduq Masood Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":201201,
+    "2013_Female":115215,
+    "2002_winner":"Chaudhry Bilal Ijaz",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.965165437746293, 73.97316334681534"
+  },
+  "NA-101": {
+    "Area":"Gujranwala-VII",
+    "2008_Winner":"Justice Iftikhar Ahmad Cheema",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":182707,
+    "2013_Female":153061,
+    "2002_winner":"Mr.Hamid Nasir Chatta",
+    "2002_party":"Pakistan Muslim League(J)",
+    "geometry":"32.26175911784005, 73.82898627870986"
+  },
+  "NA-102": {
+    "Area":"Hafizabad-I",
+    "2008_Winner":"Saira Afzal Tarar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":162191,
+    "2013_Female":122226,
+    "2002_winner":"Chaudhry Mehdi Hasan Bhatti",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.075758754202035, 73.6930198032262"
+  },
+  "NA-103": {
+    "Area":"Hafizabad-II",
+    "2008_Winner":"Ch. Liaqat Abbas Bhatti",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":149505,
+    "2013_Female":109751,
+    "2002_winner":"Chaudhry Liaqat Abbas Bhatti",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.01175088829867, 73.52684383021301"
+  },
+  "NA-104": {
+    "Area":"Gujrat-I",
+    "2008_Winner":"Ch Wajahat Hussain",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":210600,
+    "2013_Female":162553,
+    "2002_winner":"Chaudhry Wajahat Hussain",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.695032415469356, 74.34944361425096"
+  },
+  "NA-105": {
+    "Area":"Gujrat-II",
+    "2008_Winner":"Ch. Ahmed Mukhtar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":219637,
+    "2013_Female":174422,
+    "2002_winner":"Ch. Shujat Hussain",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.57245705953011, 74.06517304939234"
+  },
+  "NA-106": {
+    "Area":"Gujrat-III",
+    "2008_Winner":"Qamar Zaman Kaira",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":232728,
+    "2013_Female":180838,
+    "2002_winner":"Ch. Qamar Zaman",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.71814471643748, 73.78913852031712"
+  },
+  "NA-107": {
+    "Area":"Gujrat-IV",
+    "2008_Winner":"Muhammad Jamil Malik",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":220078,
+    "2013_Female":180544,
+    "2002_winner":"Mr.Rehman Naseer Ch.",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.853213261000505, 74.0775224215106"
+  },
+  "NA-108": {
+    "Area":"M.B. Din-I",
+    "2008_Winner":"Muhammad Tariq Tarar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":246594,
+    "2013_Female":183923,
+    "2002_winner":"Mr.Ijaz Ahmad Chaudhary",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.57245845202943, 73.48976864079464"
+  },
+  "NA-109": {
+    "Area":"M.B. Din-II",
+    "2008_Winner":"Nazar Muhammad Gondal",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":229642,
+    "2013_Female":154995,
+    "2002_winner":"Major � Zulfiqar Ali Gondal",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"32.45780859759218, 73.39775121735647"
+  },
+  "NA-110": {
+    "Area":"Sialkot-I",
+    "2008_Winner":"Khawaja Muhammad Asif",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":191888,
+    "2013_Female":150237,
+    "2002_winner":"Khawaja Muhammad Asif",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"32.497188709247375, 74.54033748169286"
+  },
+  "NA-111": {
+    "Area":"Sialkot-II",
+    "2008_Winner":"Dr. Fardos Ashiq Awan.",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":233763,
+    "2013_Female":166218,
+    "2002_winner":"Ch. Amir Hussain",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.64415982787599, 74.5966190149536"
+  },
+  "NA-112": {
+    "Area":"Sialkot-III",
+    "2008_Winner":"Rana Abdul Sattar Bib Ran Shamim Ahmed Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":214186,
+    "2013_Female":148818,
+    "2002_winner":"Mr.Umar Ahmad Ghuman",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.46939851059703, 74.34669721483306"
+  },
+  "NA-113": {
+    "Area":"Sialkot-IV",
+    "2008_Winner":"Sahabzada Syed Murtaza Amin",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":209904,
+    "2013_Female":144837,
+    "2002_winner":"Mr.Ali Asjad Malhi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.305888861402565, 74.44694042538868"
+  },
+  "NA-114": {
+    "Area":"Sialkot-V",
+    "2008_Winner":"Zahid Hamid",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":226114,
+    "2013_Female":155382,
+    "2002_winner":"Mr.Zahid Hamid Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.34650405734267, 74.71061896521655"
+  },
+  "NA-115": {
+    "Area":"Norowal-I",
+    "2008_Winner":"Sumaira Naz",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":144569,
+    "2013_Female":103013,
+    "2002_winner":"Mr.Muhammad Nasir Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.31168369769859, 74.99764537870794"
+  },
+  "NA-116": {
+    "Area":"Norowal-II",
+    "2008_Winner":"Ch.Muhammd Taqriq Anees",
+    "2008_Party":"Independent",
+    "2013_Male":161490,
+    "2013_Female":110415,
+    "2002_winner":"Mr.Daniyal Aziz Chaudhry",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.253635598072016, 75.17341721635228"
+  },
+  "NA-117": {
+    "Area":"Norowal-III",
+    "2008_Winner":"Ahsan Iqbal",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":158542,
+    "2013_Female":114350,
+    "2002_winner":"Riffat Javed",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"32.10718484744595, 74.87816463754302"
+  },
+  "NA-118": {
+    "Area":"Lahore-I",
+    "2008_Winner":"Muhammad Riaz",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":193556,
+    "2013_Female":140700,
+    "2002_winner":"Hafiz Salman Butt",
+    "2002_party":"Independent",
+    "geometry":"31.632259122331504, 74.29859030776083"
+  },
+  "NA-119": {
+    "Area":"Lahore-II",
+    "2008_Winner":"Muhammad Hamza Shehbaz Sharif",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":176884,
+    "2013_Female":128686,
+    "2002_winner":"Khawaja Saad Rafique",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.601414658110844, 74.3188462939072"
+  },
+  "NA-120": {
+    "Area":"Lahore-III",
+    "2008_Winner":"Bilal Yaseen",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":165312,
+    "2013_Female":129925,
+    "2002_winner":"Mr.Muhammad Pervaiz Malik",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.573992699262213, 74.28944294368671"
+  },
+  "NA-121": {
+    "Area":"Lahore-VI",
+    "2008_Winner":"Mian Margoob Ahmad",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":218900,
+    "2013_Female":169541,
+    "2002_winner":"Mr.Farid Ahmed Paracha",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"31.520484454825105, 74.25539122930422"
+  },
+  "NA-122": {
+    "Area":"Lahore-V",
+    "2008_Winner":"Sardar Ayaz Sadiq",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":179720,
+    "2013_Female":146308,
+    "2002_winner":"Sardar Ayaz Sadiq",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.537426957831094, 74.33854481132619"
+  },
+  "NA-123": {
+    "Area":"Lahore-VI",
+    "2008_Winner":"Mohammad Pervaiz Malik",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":202886,
+    "2013_Female":144651,
+    "2002_winner":"Makhdoom Muhammad Javaid Hashmi",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.60418841894706, 74.36249301669613"
+  },
+  "NA-124": {
+    "Area":"Lahore-VII",
+    "2008_Winner":"Sheikh Rohale Asghar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":184231,
+    "2013_Female":138466,
+    "2002_winner":"Mr.Aitzaz Ahsan",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.587697062349676, 74.42323814172642"
+  },
+  "NA-125": {
+    "Area":"Lahore-VIII",
+    "2008_Winner":"Khawaja Saad Rafique",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":239071,
+    "2013_Female":190044,
+    "2002_winner":"Mr.Hamayun Akhtar Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.509370016828036, 74.40501206484032"
+  },
+  "NA-126": {
+    "Area":"Lahore-IX",
+    "2008_Winner":"Umer Sohail Zia Butt",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":192217,
+    "2013_Female":167125,
+    "2002_winner":"Mr.Liaqat Balouch",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"31.475083893326868, 74.33467863647024"
+  },
+  "NA-127": {
+    "Area":"Lahore-X",
+    "2008_Winner":"Chaudhry Nasir Ahmed Bhutta",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":186756,
+    "2013_Female":143145,
+    "2002_winner":"Dr. Muhammad Tahir-ul-Qadri",
+    "2002_party":"Pakistan Awami Tehreek",
+    "geometry":"31.3992796831123, 74.31511070425154"
+  },
+  "NA-128": {
+    "Area":"Lahore-XI",
+    "2008_Winner":"Malik Muhammad Afzal Khokhar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":235724,
+    "2013_Female":175179,
+    "2002_winner":"Malik Zaheer Abbas Advocate",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.384485644422387, 74.18327619310162"
+  },
+  "NA-129": {
+    "Area":"Lahore-XII",
+    "2008_Winner":"Tariq Shabbir Advocate",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":168995,
+    "2013_Female":104653,
+    "2002_winner":"Major (R) Habibullah Waraich",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.360587950127456, 74.37416130637143"
+  },
+  "NA-130": {
+    "Area":"Lahore-XIII",
+    "2008_Winner":"Samina Khalid Ghurki",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":181964,
+    "2013_Female":120547,
+    "2002_winner":"Mrs.Samina Khalid Ghurki",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.593655117148156, 74.49363004417592"
+  },
+  "NA-131": {
+    "Area":"Sheikhupura-I",
+    "2008_Winner":"Rana Afzaal Hussain",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":163832,
+    "2013_Female":110161,
+    "2002_winner":"Brig (R) Zulfiqar Ahmad Dhillon",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.892246349135277, 74.50737903034315"
+  },
+  "NA-132": {
+    "Area":"Sheikhupura-II",
+    "2008_Winner":"Rana Tanveer Hussain.",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":169918,
+    "2013_Female":121312,
+    "2002_winner":"Mian Jalil Ahmad Sharkpuri",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"31.651763760484666, 74.21623581042218"
+  },
+  "NA-133": {
+    "Area":"Sheikhupura-III",
+    "2008_Winner":"Mian Javed Latif",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":167962,
+    "2013_Female":123321,
+    "2002_winner":"Mr.Muhammad Saeed Virk",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.761564529846584, 74.18054432225244"
+  },
+  "NA-134": {
+    "Area":"Sheikhupura-IV",
+    "2008_Winner":"Sardar Muhammad Irfan Dogar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":149160,
+    "2013_Female":101023,
+    "2002_winner":"Mr.Khurram Munawar Manj.",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.696165922252707, 73.97178723062473"
+  },
+  "NA-135": {
+    "Area":"Sheikhupura-V",
+    "2008_Winner":"Choudhary Muhammad Barjees Tahir",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":167015,
+    "2013_Female":118274,
+    "2002_winner":"Mian Shamim Haider",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.64305027325592, 73.82759828069652"
+  },
+  "NA-136": {
+    "Area":"Sheikhupura-VI",
+    "2008_Winner":"Ch.Bilal Ahmed Virk",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":165630,
+    "2013_Female":119873,
+    "2002_winner":"Mr.Bilal Ahmad Virk",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.541807998052537, 74.08990542523577"
+  },
+  "NA-137": {
+    "Area":"Sheikhupura-VII",
+    "2008_Winner":"Saeed Ahmed Zafar",
+    "2008_Party":"Independent",
+    "2013_Male":163232,
+    "2013_Female":124252,
+    "2002_winner":"Rai Mansab Ali Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.479207443535284, 73.92509164347746"
+  },
+  "NA-138": {
+    "Area":"Kasur-I",
+    "2008_Winner":"Rao Mazhar Hayyat Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":165636,
+    "2013_Female":116919,
+    "2002_winner":"Sardar Tufail Ahmad Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.204752687488426, 74.30274756231745"
+  },
+  "NA-139": {
+    "Area":"Kasur-II",
+    "2008_Winner":"Waseem Akhtar Sheikh",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":173462,
+    "2013_Female":128044,
+    "2002_winner":"Ch. Manzoor Ahmad",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"31.107216247532822, 74.46342724687383"
+  },
+  "NA-140": {
+    "Area":"Kasur-III",
+    "2008_Winner":"Malik Rasheed Ahmed Khan",
+    "2008_Party":"Independent",
+    "2013_Male":168330,
+    "2013_Female":123271,
+    "2002_winner":"Mian Khursheed Mehmood Kasuri",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.889437417577263, 74.2505658470335"
+  },
+  "NA-141": {
+    "Area":"Kasur-IV",
+    "2008_Winner":"Rana Muhammad Ishaq Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":175210,
+    "2013_Female":134367,
+    "2002_winner":"Sardar Muhammad Asif Nakai",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.962481199340257, 73.9772772041938"
+  },
+  "NA-142": {
+    "Area":"Kasur-V",
+    "2008_Winner":"Sardar Talib Hassan Nakai",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":162229,
+    "2013_Female":116107,
+    "2002_winner":"Sardar Muhammad. Asif Nakai",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.034292086399674, 73.85231145488524"
+  },
+  "NA-143": {
+    "Area":"Okara-I",
+    "2008_Winner":"Capt.(Rtd) Rai Ghulam Mujtaba Kharral",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":153204,
+    "2013_Female":119538,
+    "2002_winner":"Rai Muhammad Aslam Kharal",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.05782123385689, 73.57766333541008"
+  },
+  "NA-144": {
+    "Area":"Okara-II",
+    "2008_Winner":"Sajjad Ul Hassan",
+    "2008_Party":"Independent",
+    "2013_Male":163957,
+    "2013_Female":133380,
+    "2002_winner":"Rao Sikander Iqbal",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.788037508043125, 73.42658751218846"
+  },
+  "NA-145": {
+    "Area":"Okara-III",
+    "2008_Winner":"Syed Sumsan Ali Shah Bukhari",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":158198,
+    "2013_Female":125564,
+    "2002_winner":"Syed Gulzar Sabtain Shah",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.9188875734983, 73.68339423591601"
+  },
+  "NA-146": {
+    "Area":"Okara-IV",
+    "2008_Winner":"Mian Manzur Ahmad Khan Wattoo",
+    "2008_Party":"Independent",
+    "2013_Male":158291,
+    "2013_Female":119882,
+    "2002_winner":"Rao Muhammad Ajmal Khan",
+    "2002_party":"Independent",
+    "geometry":"30.66999522685151, 73.66691967972599"
+  },
+  "NA-147": {
+    "Area":"Okara-V",
+    "2008_Winner":"Khurram Jahangir Wattoo",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":150545,
+    "2013_Female":114252,
+    "2002_winner":"Rubina Shaheen Wattoo",
+    "2002_party":"Pakistan Muslim League(J)",
+    "geometry":"30.446512348734107, 73.71909073300571"
+  },
+  "NA-148": {
+    "Area":"Multan-I",
+    "2008_Winner":"Syed Ali Musa Gillani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":189305,
+    "2013_Female":161482,
+    "2002_winner":"Makhdoom Shah Mahmood Qureshi",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.165494169513767, 71.72645659383397"
+  },
+  "NA-149": {
+    "Area":"Multan-II",
+    "2008_Winner":"Sheikh Muhammad Tariq Rasheed",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":185629,
+    "2013_Female":155584,
+    "2002_winner":"Malik Liaquat Ali Dogar",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.135811312090862, 71.54793125133688"
+  },
+  "NA-150": {
+    "Area":"Multan-III",
+    "2008_Winner":"Rana Mehmood ul Hassan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":203853,
+    "2013_Female":169478,
+    "2002_winner":"Rana Mehmood ul Hassan",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"30.209415012404698, 71.46415914430645"
+  },
+  "NA-151": {
+    "Area":"Multan-IV",
+    "2008_Winner":"Syed Abdul Qadir Gillani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":193481,
+    "2013_Female":168744,
+    "2002_winner":"Mr.Sikandar Hayat Khan Bosan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.388447470080145, 71.49709466304716"
+  },
+  "NA-152": {
+    "Area":"Multan-V",
+    "2008_Winner":"Liaqat Ali Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":177320,
+    "2013_Female":155601,
+    "2002_winner":"Syed Asad Murtaza Gillani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.744855609345596, 71.40098193593485"
+  },
+  "NA-153": {
+    "Area":"Multan-VI",
+    "2008_Winner":"Dewan Syed Ashiq Hussain Bukhar",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":182573,
+    "2013_Female":167141,
+    "2002_winner":"Mr.Deewan Jaffer Hussain Bukhari",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"29.556277286487973, 71.15654405566204"
+  },
+  "NA-154": {
+    "Area":"Lodhran-I",
+    "2008_Winner":"Muhammad Siddique Baloch",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":205433,
+    "2013_Female":164717,
+    "2002_winner":"Nawab Aman Ullah Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"29.558678064931037, 71.59873056000333"
+  },
+  "NA-155": {
+    "Area":"Lodhran-II",
+    "2008_Winner":"Mohammad Akhtar Khan Kanju",
+    "2008_Party":"Independent",
+    "2013_Male":202813,
+    "2013_Female":154214,
+    "2002_winner":"Mr.Muhammad Akhtar Khan Kanju",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"29.618385274544497, 71.91185463298848"
+  },
+  "NA-156": {
+    "Area":"Khanewal-I",
+    "2008_Winner":"Muhammad Raza Hayat Hiraj",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":177655,
+    "2013_Female":136837,
+    "2002_winner":"Mr.Muhammad Raza Hayat Hiraj",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.418616156084724, 71.73058045249525"
+  },
+  "NA-157": {
+    "Area":"Khanewal-II",
+    "2008_Winner":"Hamid Yar Hiraj",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":190862,
+    "2013_Female":143633,
+    "2002_winner":"Mr.Hamid Yar Hiraj",
+    "2002_party":"Independent",
+    "geometry":"30.33095132491951, 71.94206897551362"
+  },
+  "NA-158": {
+    "Area":"Khanewal-III",
+    "2008_Winner":"Pir Aslam Bodla",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":187337,
+    "2013_Female":144617,
+    "2002_winner":"Pir Muhammad Aslam Bodla",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.371225759616312, 72.26615187136872"
+  },
+  "NA-159": {
+    "Area":"Khanewal-IV",
+    "2008_Winner":"Ch. Iftikhar Nazir",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":181950,
+    "2013_Female":139035,
+    "2002_winner":"Malik Ghulam Murtaza Maitla",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.178554568795146, 71.89811140377014"
+  },
+  "NA-160": {
+    "Area":"Sahiwal-I",
+    "2008_Winner":"Syed Imran Ahmed Shah",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":171693,
+    "2013_Female":135182,
+    "2002_winner":"Ch. Noraiz Shakoor Khan",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.61209719608005, 73.22746527338427"
+  },
+  "NA-161": {
+    "Area":"Sahiwal-II",
+    "2008_Winner":"Ghulam Farid Kathia",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":171523,
+    "2013_Female":133419,
+    "2002_winner":"Rana Tariq Javed",
+    "2002_party":"Pakistan Shia Political Party",
+    "geometry":"30.729027458865982, 73.1134801979008"
+  },
+  "NA-162": {
+    "Area":"Sahiwal-III",
+    "2008_Winner":"Ch.Zahid Iqbal",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":174278,
+    "2013_Female":132081,
+    "2002_winner":"Rai Aziz Ullah Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.586093694629945, 72.94319315380733"
+  },
+  "NA-163": {
+    "Area":"Sahiwal-IV",
+    "2008_Winner":"Malik Noman Ahmed Langrial",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":156369,
+    "2013_Female":119822,
+    "2002_winner":"Sardar Farooq Ahmad Khan Laghari",
+    "2002_party":"National Alliance",
+    "geometry":"30.449398449224194, 72.74407075788486"
+  },
+  "NA-164": {
+    "Area":"Pakpatan-I",
+    "2008_Winner":"Sardar Mansab Ali Doggar",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":144035,
+    "2013_Female":116776,
+    "2002_winner":"Pir Muhammad Shah Khaggah",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.41619938582076, 73.38127882204822"
+  },
+  "NA-165": {
+    "Area":"Pakpatan-II",
+    "2008_Winner":"Syed Muhammad Salman Mohsin Gillani",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":150023,
+    "2013_Female":120611,
+    "2002_winner":"Mr.Ahmed Raza Manika",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.292945520815717, 73.44170256194559"
+  },
+  "NA-166": {
+    "Area":"Pakpatan-III",
+    "2008_Winner":"Rana Zahid Hussain Khan",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":158078,
+    "2013_Female":133998,
+    "2002_winner":"Dr. Junaid Mumtaz Joiya",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.2858712466465, 73.07638407524064"
+  },
+  "NA-167": {
+    "Area":"Vehari-I",
+    "2008_Winner":"Ch. Asghar Ali Jutt",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":191292,
+    "2013_Female":140306,
+    "2002_winner":"Ch. Nazir Ahmad Jat",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.28108852890561, 72.89790197163666"
+  },
+  "NA-168": {
+    "Area":"Vehari-II",
+    "2008_Winner":"Natasha Doultana",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":180194,
+    "2013_Female":132651,
+    "2002_winner":"Mr.Ishaq Khan Khakwani",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.241460238400695, 72.76465837664466"
+  },
+  "NA-169": {
+    "Area":"Vehari-III",
+    "2008_Winner":"Tehmina Daultana",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":182938,
+    "2013_Female":138207,
+    "2002_winner":"Mr.Khan Aftab Ahmed Khan Khichi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.164314849517417, 72.37465457749295"
+  },
+  "NA-170": {
+    "Area":"Vehari-IV",
+    "2008_Winner":"Mehmood Hayat Alias Tochi Khan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":182979,
+    "2013_Female":137004,
+    "2002_winner":"Mr.Azhar Ahmad Khan Yousaf Zai",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.806861468852723, 72.05466727723865"
+  },
+  "NA-171": {
+    "Area":"D.G. Khan-I",
+    "2008_Winner":"Khawaja Sheraz Mehmood",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":197362,
+    "2013_Female":150431,
+    "2002_winner":"Khawaja Sheraz Mahmood",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.305941601184777, 70.6100624074187"
+  },
+  "NA-172": {
+    "Area":"D.G. Khan-II",
+    "2008_Winner":"Sardar Awais Ahmed Khan Laghar",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":194889,
+    "2013_Female":151275,
+    "2002_winner":"Sardar Farooq Ahmad Khan Leghari",
+    "2002_party":"National Alliance",
+    "geometry":"29.921070723252107, 70.36832715842127"
+  },
+  "NA-173": {
+    "Area":"D.G. Khan-III",
+    "2008_Winner":"Sardar Muhammad Saif-ul-Din Khan Khosa",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":201427,
+    "2013_Female":157339,
+    "2002_winner":"Mr.Awais Ahmad Khan Leghari",
+    "2002_party":"National Alliance",
+    "geometry":"30.049515214139163, 70.83529347443277"
+  },
+  "NA-174": {
+    "Area":"Rajanpur-I",
+    "2008_Winner":"Sardar Muhammad Jafar Khan Leghari",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":201421,
+    "2013_Female":167681,
+    "2002_winner":"Sardar Muhammad Jaffar Khan Leghari",
+    "2002_party":"National Alliance",
+    "geometry":"29.467737954298002, 70.35172358821251"
+  },
+  "NA-175": {
+    "Area":"Rajanpur-II",
+    "2008_Winner":"Meer Doost Muhammad Mazari",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":199255,
+    "2013_Female":155929,
+    "2002_winner":"Sardar Nasrullah Khan Dreshak",
+    "2002_party":"Independent",
+    "geometry":"28.969147021304135, 70.09360722534086"
+  },
+  "NA-176": {
+    "Area":"Muzaffargarh-I",
+    "2008_Winner":"Muhammad Mohsin Ali Qureshi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":186848,
+    "2013_Female":151389,
+    "2002_winner":"Mrs Khalida Mohsin Ali Qurishi",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.62791028003304, 71.34606680174977"
+  },
+  "NA-177": {
+    "Area":"Muzaffargarh-II",
+    "2008_Winner":"Hina Rabbani Khar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":189991,
+    "2013_Female":167962,
+    "2002_winner":"Hina Rubbani Khar",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.36762449730426, 71.05492682945294"
+  },
+  "NA-178": {
+    "Area":"Muzaffargarh-III",
+    "2008_Winner":"Jamshaid Ahmad Khan Dasti",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":187678,
+    "2013_Female":161968,
+    "2002_winner":"Engineer Muhammad Shahid Jamil Qureshi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.05902457671492, 71.01650453577986"
+  },
+  "NA-179": {
+    "Area":"Muzaffargarh-IV",
+    "2008_Winner":"Muhammad Moazam Ali Khan Jatoi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":183233,
+    "2013_Female":157141,
+    "2002_winner":"Syed Basit Ahmad Sultan Bokhari",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"29.773317571153427, 70.89565336580392"
+  },
+  "NA-180": {
+    "Area":"Muzaffargarh-V",
+    "2008_Winner":"Abdul Qayyum Jatoi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":163330,
+    "2013_Female":132836,
+    "2002_winner":"Mr.Abdul Qayyum Khan Jatoi",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.448637703392336, 70.77473562599641"
+  },
+  "NA-181": {
+    "Area":"Layyah-I",
+    "2008_Winner":"Sardar Bahadar Ahmad Khan Seehar",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":195974,
+    "2013_Female":152202,
+    "2002_winner":"Sardar Bahadur Ahmad Khan Sehar",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"31.061652461281824, 71.30212535307521"
+  },
+  "NA-182": {
+    "Area":"Layyah-II",
+    "2008_Winner":"Syed Muhammad Saqlain Bukhari",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":211809,
+    "2013_Female":176524,
+    "2002_winner":"Malik Niaz Ahmad Jakhar",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"30.863966902362698, 70.95063943599553"
+  },
+  "NA-183": {
+    "Area":"Bahawalpur-I",
+    "2008_Winner":"Aarif Aziz Sheikh",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":162643,
+    "2013_Female":133791,
+    "2002_winner":"Makhdoom Zada Syed Ali Hassan Gillani",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"29.352772205700184, 71.12084219090036"
+  },
+  "NA-184": {
+    "Area":"Bahawalpur-II",
+    "2008_Winner":"Khadija Aamir Yar Malik",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":164260,
+    "2013_Female":134797,
+    "2002_winner":"Mr.Aamir Yar Malik",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.40389389999007, 71.55891621641786"
+  },
+  "NA-185": {
+    "Area":"Bahawalpur-III",
+    "2008_Winner":"Muhammad Baleegh-ur-Rehman",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":183177,
+    "2013_Female":150859,
+    "2002_winner":"Mr. Muhammad Farooq Azam Malik",
+    "2002_party":"National Alliance",
+    "geometry":"29.466080343909468, 71.72508734138376"
+  },
+  "NA-186": {
+    "Area":"Bahawalpur-IV",
+    "2008_Winner":"Mian Riaz Hussain Pirzada",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":177795,
+    "2013_Female":132610,
+    "2002_winner":"Mr.Riaz Hussain Peerzada",
+    "2002_party":"National Alliance",
+    "geometry":"29.64288713890092, 72.2799022640396"
+  },
+  "NA-187": {
+    "Area":"Bahawalpur-V",
+    "2008_Winner":"Ch. Saud Majeed",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":160401,
+    "2013_Female":119904,
+    "2002_winner":"Mr.Aitazaz Ahsan",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.132427099557606, 71.76902922011868"
+  },
+  "NA-188": {
+    "Area":"Bahawalnagar-I",
+    "2008_Winner":"Muhammad Akhtar Khadim Alias Khadim Hussain",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":173308,
+    "2013_Female":130370,
+    "2002_winner":"Syed Muhammad Asgher Shah",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"30.199377952594933, 73.74932294389839"
+  },
+  "NA-189": {
+    "Area":"Bahawalnagar-II",
+    "2008_Winner":"Sayed Mumtaz Alam Gillani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":179538,
+    "2013_Female":129805,
+    "2002_winner":"Mian Mumtaz Ahmed Matiana",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"29.91407230112674, 73.24671015919125"
+  },
+  "NA-190": {
+    "Area":"Bahawalnagar-III",
+    "2008_Winner":"Abdul Ghafoor Chaudhary",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":184613,
+    "2013_Female":139472,
+    "2002_winner":"Mr.Abdul Sattar Khan",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"29.57416545321738, 72.5902908761417"
+  },
+  "NA-191": {
+    "Area":"Bahawalnagar-IV",
+    "2008_Winner":"Muhammad Afzal Sindhu",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":190678,
+    "2013_Female":136294,
+    "2002_winner":"Mr. Muhammad Ijaz ul Haq",
+    "2002_party":"Pakistan Muslim League (PML-Z)",
+    "geometry":"29.196713373389297, 72.86079662285238"
+  },
+  "NA-192": {
+    "Area":"Rahiimyar Khan-I",
+    "2008_Winner":"Syed Hamid Saeed Kazmi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":189211,
+    "2013_Female":150153,
+    "2002_winner":"Makhdoom Syed Ahmad Alam Anwar",
+    "2002_party":"Independent",
+    "geometry":"29.012372067348746, 70.68138625726988"
+  },
+  "NA-193": {
+    "Area":"Rahiimyar Khan-II",
+    "2008_Winner":"Mian Abdul Sattar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":167082,
+    "2013_Female":121299,
+    "2002_winner":"Major � Syed Tanveer Hussain Syed",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"28.410144140394863, 70.31333972898335"
+  },
+  "NA-194": {
+    "Area":"Rahiimyar Khan-III",
+    "2008_Winner":"Makhdoom Shahab-ud-Din",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":171081,
+    "2013_Female":126932,
+    "2002_winner":"Makhdoom Khusro Bakhtiar",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"28.82485541077564, 70.3682743810923"
+  },
+  "NA-195": {
+    "Area":"Rahiimyar Khan-IV",
+    "2008_Winner":"Mr. Jahangir Khan Tareen",
+    "2008_Party":"Pakistan Muslim League Functional (PML F)",
+    "2013_Male":177177,
+    "2013_Female":130634,
+    "2002_winner":"Mr.Jahangir Khan Tareen",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"28.69962148140887, 70.02224374662387"
+  },
+  "NA-196": {
+    "Area":"Rahiimyar Khan-V",
+    "2008_Winner":"Javed Iqbal Warraich",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":192457,
+    "2013_Female":149570,
+    "2002_winner":"Ch. Zaffar Iqbal Warriach",
+    "2002_party":"Pakistan Peoples Party Parliamentarian",
+    "geometry":"28.58873460345191, 70.15955640732659"
+  },
+  "NA-197": {
+    "Area":"Rahiimyar Khan-VI",
+    "2008_Winner":"Sardar Muhammad Arshad Khan Laghari",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":189263,
+    "2013_Female":139714,
+    "2002_winner":"Rais Munir Ahmed",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"28.37635367213531, 69.84087332790739"
+  },
+  "NA-198": {
+    "Area":"Sukkur-I",
+    "2008_Winner":"Islamuddin Shaikh",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":138640,
+    "2013_Female":115442,
+    "2002_winner":"Syed Khursheed Ahmed Shah",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.750761921053616, 68.85646588955296"
+  },
+  "NA-199": {
+    "Area":"Sukkur-II",
+    "2008_Winner":"Syed Khursheed Ahmad Shah",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":154498,
+    "2013_Female":118915,
+    "2002_winner":"Mr.Abdul Mujeeb Pirzada",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.385117451505504, 69.15857081934928"
+  },
+  "NA-200": {
+    "Area":"Ghotki-I",
+    "2008_Winner":"Mian Abdul Haq @ Mian Mitho",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":165331,
+    "2013_Female":126351,
+    "2002_winner":"Mr.Khalid Ahmed Khan Lund",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"28.0412301143602, 69.76777295510476"
+  },
+  "NA-201": {
+    "Area":"Ghotki-II",
+    "2008_Winner":"Sardar Ali Muhammad Khan Mehar",
+    "2008_Party":"Independent",
+    "2013_Male":154892,
+    "2013_Female":121491,
+    "2002_winner":"Mr.Ali Muhammad Khan",
+    "2002_party":"Independent",
+    "geometry":"27.95434559473879, 69.37881321276109"
+  },
+  "NA-202": {
+    "Area":"Shikarpur- I",
+    "2008_Winner":"Aftab Shahban Mirrani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":157112,
+    "2013_Female":130774,
+    "2002_winner":"Muhammad Ibrahim Jatoi",
+    "2002_party":"National Alliance",
+    "geometry":"28.037178467679436, 68.70858463866375"
+  },
+  "NA-203": {
+    "Area":"Shikarpur-II",
+    "2008_Winner":"Ghous Bakhsh Khan Mahar",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":169309,
+    "2013_Female":142897,
+    "2002_winner":"Mr.Ghous Bakhsh Mahar",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"27.8671333200674, 68.48782136232785"
+  },
+  "NA-204": {
+    "Area":"Larkana-I",
+    "2008_Winner":"Mr. Shahid Hussain Bhutto",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":154602,
+    "2013_Female":130526,
+    "2002_winner":"Mr.Muhammad Anwar Bhutto",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.56154219597069, 68.21117669292857"
+  },
+  "NA-205": {
+    "Area":"Larkana-II",
+    "2008_Winner":"Nazir Ahmed Bughio",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":154436,
+    "2013_Female":121613,
+    "2002_winner":"Mr.Hizbullah Bughio",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.378469384556706, 68.08964079207158"
+  },
+  "NA-206": {
+    "Area":"Larkana-III",
+    "2008_Winner":"Mir Amir Ali Khan Magsi",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":154043,
+    "2013_Female":123282,
+    "2002_winner":"Mr.Khalid Iqbal Memon",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.597757138693325, 68.00243734348624"
+  },
+  "NA-207": {
+    "Area":"Larkana-IV",
+    "2008_Winner":"Faryal Talpur",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":137933,
+    "2013_Female":122422,
+    "2002_winner":"Mr.Shahid Hussain Bhutto",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.79959297989022, 68.2856713414534"
+  },
+  "NA-208": {
+    "Area":"Jacobabad- I",
+    "2008_Winner":"Mir Aijaz Hussain Jakhrani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":119391,
+    "2013_Female":109272,
+    "2002_winner":"Mr.Meer Aijaz Hussain Jakhrani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"28.16769366120381, 68.28442430934888"
+  },
+  "NA-209": {
+    "Area":"Jacobabad- II",
+    "2008_Winner":"Mir Hazar Khan Bijarani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":158100,
+    "2013_Female":141553,
+    "2002_winner":"Mir Hazar Khan Bijarani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"28.288922187404815, 68.74744402626766"
+  },
+  "NA-210": {
+    "Area":"Kashmore",
+    "2008_Winner":"Nasrullah Khan Bijrani",
+    "2008_Party":"",
+    "2013_Male":135968,
+    "2013_Female":116746,
+    "2002_winner":"Sardar Saleem Jan Khan Mazari",
+    "2002_party":"National Alliance",
+    "geometry":"28.33765513342404, 69.25241615403661"
+  },
+  "NA-211": {
+    "Area":"NausheroFeroze-I",
+    "2008_Winner":"Ghulam Murtaza Khan Jatoi",
+    "2008_Party":"National Peoples Party",
+    "2013_Male":140847,
+    "2013_Female":117268,
+    "2002_winner":"Dr. Abdul Ghaffar Khan Jatoi",
+    "2002_party":"National Alliance",
+    "geometry":"26.75453205188796, 68.03779630125905"
+  },
+  "NA-212": {
+    "Area":"NausheroFeroze-II",
+    "2008_Winner":"Zaffar Ali Shah",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":148259,
+    "2013_Female":134560,
+    "2002_winner":"Mr.Allahandho Shah @ Zafar Ali Shah",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.09270940081594, 68.24662021996937"
+  },
+  "NA-213": {
+    "Area":"Nawabshah-I",
+    "2008_Winner":"Dr. Azra Fazal Pechuho",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":136752,
+    "2013_Female":120912,
+    "2002_winner":"Azra Fazal",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"26.439852025530623, 68.53211623684251"
+  },
+  "NA-214": {
+    "Area":"Nawabshah-I",
+    "2008_Winner":"Syed Ghulam Mustafa Shah",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":129348,
+    "2013_Female":109165,
+    "2002_winner":"Syed Ghulam Mustafa Shah",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"26.400822954354982, 68.15868398660393"
+  },
+  "NA-215": {
+    "Area":"Khairpur-I",
+    "2008_Winner":"Nawab Ali Wassan",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":141523,
+    "2013_Female":110472,
+    "2002_winner":"Mr.Manzoor Hussain Wasan",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.516858248513255, 68.79003631959722"
+  },
+  "NA-216": {
+    "Area":"Khairpur-II",
+    "2008_Winner":"Pir Saddaruddin Shah Rashidi",
+    "2008_Party":"Pakistan Muslim League Functional (PML F)",
+    "2013_Male":200735,
+    "2013_Female":173592,
+    "2002_winner":"Syed Saddaruddin Shah",
+    "2002_party":"Pakistan Muslim League Functional (PML F)",
+    "geometry":"27.05337092912112, 69.06502469148893"
+  },
+  "NA-217": {
+    "Area":"Khairpur-III",
+    "2008_Winner":"Pir Syed Fazal Ali Shah Jillani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":154615,
+    "2013_Female":139251,
+    "2002_winner":"Pir Syed Fazal Ali Shah Jillani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"27.56092077754623, 68.47671648370624"
+  },
+  "NA-218": {
+    "Area":"Matiari-cum-Hyderabad",
+    "2008_Winner":"Makhdoom Mohammad Amin Fahim",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":150918,
+    "2013_Female":137735,
+    "2002_winner":"Makhdoom Muhammad Amin Faheem",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.600762109288908, 68.45236782257871"
+  },
+  "NA-219": {
+    "Area":"Hyderabad-I",
+    "2008_Winner":"Syed Tayyab Hussain",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":168501,
+    "2013_Female":133710,
+    "2002_winner":"Prof. Khalid Wahab",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"25.345341221318495, 68.38262789453825"
+  },
+  "NA-220": {
+    "Area":"Hyderabad-II (Old Hyderabad-III)",
+    "2008_Winner":"Salahuddin",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":156184,
+    "2013_Female":118097,
+    "2002_winner":"Dr. Sahibzada Abul Khair Muhammad Zubair",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"25.433602501882362, 68.36540030601111"
+  },
+  "NA-221": {
+    "Area":"Hyderabad-IV",
+    "2008_Winner":"Syed Ameer Shah Jamot",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":143883,
+    "2013_Female":125183,
+    "2002_winner":"Syed Amir Ali Shah Jamot",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.41563694220889, 68.52066029049331"
+  },
+  "NA-222": {
+    "Area":"Hyderabad-V",
+    "2008_Winner":"Syed Naveed Qamar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":141775,
+    "2013_Female":118285,
+    "2002_winner":"Syed Naveed Qammar",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.278474331592943, 68.48285098035035"
+  },
+  "NA-223": {
+    "Area":"Hyderabad-VI",
+    "2008_Winner":"Mrs. Shamshad Sattar Bachani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":159607,
+    "2013_Female":141349,
+    "2002_winner":"Mr.Shamshad Sattar Bachani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.12565827337248, 68.5392036811536"
+  },
+  "NA-224": {
+    "Area":"Badin-cum-Tando",
+    "2008_Winner":"Ghulam Ali Nizamani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":194171,
+    "2013_Female":171137,
+    "2002_winner":"Mr.Ghulam Ali Nizamani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"24.975155266285608, 69.02089109771589"
+  },
+  "NA-225": {
+    "Area":"Badin-II",
+    "2008_Winner":"Dr. Fehmida Mirza",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":172144,
+    "2013_Female":147928,
+    "2002_winner":"Dr. Fehmida Mirza",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"24.561168997981085, 68.71345123595006"
+  },
+  "NA-226": {
+    "Area":"Mirpurkhas-cum-Umerkot(I)",
+    "2008_Winner":"Pir Aftab Hussain Shah Jillani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":202364,
+    "2013_Female":167060,
+    "2002_winner":"Pir Aftab Hussain Shah Jilani",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.456736417279327, 69.15822103465916"
+  },
+  "NA-227": {
+    "Area":"Mirpurkhas-II",
+    "2008_Winner":"Mir Munawar Ali Talpur",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":162104,
+    "2013_Female":137540,
+    "2002_winner":"Syed Qurban Ali Shah",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.164217130234867, 69.22425671880251"
+  },
+  "NA-228": {
+    "Area":"Mirpurkhas-III",
+    "2008_Winner":"Nawab Muhammad Yousif Talpur",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":164359,
+    "2013_Female":145716,
+    "2002_winner":"Nawab Muhammad Yousuf Talpur",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.367679170545085, 69.75732758037555"
+  },
+  "NA-229": {
+    "Area":"Tharparkar-I",
+    "2008_Winner":"Arbab Zakaullah",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":194941,
+    "2013_Female":166828,
+    "2002_winner":"Mr.Arbab Ghulam Rahim",
+    "2002_party":"National Alliance",
+    "geometry":"24.44843700677536, 69.71115929048483"
+  },
+  "NA-230": {
+    "Area":"Tharparkar-II",
+    "2008_Winner":"Dr. Ghulam Hyder Samejo",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":166685,
+    "2013_Female":139047,
+    "2002_winner":"Mr.Ghulam Hyder Samejo",
+    "2002_party":"National Alliance",
+    "geometry":"25.04203388155482, 70.60124789364102"
+  },
+  "NA-231": {
+    "Area":"Jamshoro",
+    "2008_Winner":"NAWAB ABDUL GHANI TALPUR",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":176730,
+    "2013_Female":152868,
+    "2002_winner":"Nawab Abdul Ghani Talpur",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"25.7594682416195, 67.81822106326922"
+  },
+  "NA-232": {
+    "Area":"Dadu-I",
+    "2008_Winner":"Rafique Ahmed Jamali",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":159329,
+    "2013_Female":140217,
+    "2002_winner":"Mr.Rafique Ahmed Jamali",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"26.715111233431216, 67.49370640740426"
+  },
+  "NA-233": {
+    "Area":"Dadu-II",
+    "2008_Winner":"Talat Iqbal Mahessar",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":155631,
+    "2013_Female":139434,
+    "2002_winner":"Mr.Liaqat Ali Jatoi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"27.033709603303187, 67.54906258303095"
+  },
+  "NA-234": {
+    "Area":"Sanghar-I",
+    "2008_Winner":"Mohammad Jadim Mangrio",
+    "2008_Party":"Pakistan Muslim League Functional (PML F)",
+    "2013_Male":145539,
+    "2013_Female":122678,
+    "2002_winner":"Haji Khuda Bux Nizamani",
+    "2002_party":"Pakistan Muslim League Functional (PML F)",
+    "geometry":"26.0309905840306, 68.91680133383034"
+  },
+  "NA-235": {
+    "Area":"Sanghar-cum-Mirpurkhas-cum-Umerkot",
+    "2008_Winner":"Ghulam Dastgir Rajar",
+    "2008_Party":"Pakistan Muslim League Functional (PML F)",
+    "2013_Male":109169,
+    "2013_Female":94343,
+    "2002_winner":"Qazi Abdul Qudus Rajar",
+    "2002_party":"Pakistan Muslim League Functional (PML F)",
+    "geometry":"25.84335111388311, 69.55923430945882"
+  },
+  "NA-236": {
+    "Area":"Sanghar-II",
+    "2008_Winner":"Roshan Din Jonejo",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":150830,
+    "2013_Female":131037,
+    "2002_winner":"Mr.Muhammad Khan Junejo",
+    "2002_party":"Pakistan Muslim League Functional (PML F)",
+    "geometry":"25.9159351622258, 68.62180508748293"
+  },
+  "NA-237": {
+    "Area":"Thatta-I",
+    "2008_Winner":"Dr. Abdul Wahid Soomro",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":122564,
+    "2013_Female":103884,
+    "2002_winner":"Syed Ayaz Ali Shah Sheerazi",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"24.636108076904563, 67.88394349646717"
+  },
+  "NA-238": {
+    "Area":"Thatta-II",
+    "2008_Winner":"Syed Ayaz Ali Shah Sheerazi",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":175324,
+    "2013_Female":156335,
+    "2002_winner":"Mr.Muhammad Ali Malkani",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"24.211071681573372, 68.35640339409042"
+  },
+  "NA-239": {
+    "Area":"Karachi-I",
+    "2008_Winner":"Abdul Qadir Patel",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":228647,
+    "2013_Female":145115,
+    "2002_winner":"Hakim Qari Gul Rehman",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"24.903245096103806, 66.85161632406937"
+  },
+  "NA-240": {
+    "Area":"Karachi-II",
+    "2008_Winner":"Khuwaja Sohail Mansoor",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":172307,
+    "2013_Female":114863,
+    "2002_winner":"Mr.Sarkaruddin Advocate",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.90355977015272, 67.0001001515202"
+  },
+  "NA-241": {
+    "Area":"Karachi-III",
+    "2008_Winner":"S.A. IQBAL QADRI",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":191747,
+    "2013_Female":121114,
+    "2002_winner":"Mr.Muhammad Laeeq Khan",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"24.92286074437796, 66.94723477410844"
+  },
+  "NA-242": {
+    "Area":"Karachi-IV",
+    "2008_Winner":"Dr. Abdul Qadir Khanzada",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":185240,
+    "2013_Female":122444,
+    "2002_winner":"Mr.Muhammad Abdul Rauf Siddiqui",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.962089347400347, 66.98877507833254"
+  },
+  "NA-243": {
+    "Area":"Karachi-V",
+    "2008_Winner":"Abdul Waseem",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":267699,
+    "2013_Female":156481,
+    "2002_winner":"Mr.Sultan Ahmed Khan",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"25.04454232900442, 67.04988559257652"
+  },
+  "NA-244": {
+    "Area":"Karachi-VI",
+    "2008_Winner":"Sheikh Salahuddin",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":177159,
+    "2013_Female":141538,
+    "2002_winner":"Syed Haider Abbas Rizvi",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.979517047774074, 67.07323537316643"
+  },
+  "NA-245": {
+    "Area":"Karachi-VII",
+    "2008_Winner":"Farhat Mohammad Khan",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":208073,
+    "2013_Female":174859,
+    "2002_winner":"Mr.Kanwer Khalid Younus",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.957110891914944, 67.03581827999585"
+  },
+  "NA-246": {
+    "Area":"Karachi-VIII",
+    "2008_Winner":"Sufiyan Yousif",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":196187,
+    "2013_Female":161594,
+    "2002_winner":"Haji Aziz Ullah",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.934072510961105, 67.07255240929294"
+  },
+  "NA-247": {
+    "Area":"Karachi-IX",
+    "2008_Winner":"Dr. Nadeem Ahsan",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":169924,
+    "2013_Female":133971,
+    "2002_winner":"Mr.Israr-Ul-Ebad Khan",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.918195222696706, 67.03821645991388"
+  },
+  "NA-248": {
+    "Area":"Karachi-X",
+    "2008_Winner":"Nabeel Ahmed Gobal",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":170347,
+    "2013_Female":125189,
+    "2002_winner":"Mr.Nabeel Ahmed Gabol",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"24.870157550612088, 66.97663082750671"
+  },
+  "NA-249": {
+    "Area":"Karachi-XI",
+    "2008_Winner":"Dr. Muhammad Farooq Sattar",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":172128,
+    "2013_Female":132400,
+    "2002_winner":"Mr.Amir Liaquat Hussain",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.867431403136646, 67.00813010911975"
+  },
+  "NA-250": {
+    "Area":"Karachi-XII",
+    "2008_Winner":"Khush Bakhat Shujaat",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":201806,
+    "2013_Female":163725,
+    "2002_winner":"Mr.Abdul Sattar Afghani",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"24.82638695908556, 67.03023075673673"
+  },
+  "NA-251": {
+    "Area":"Karachi-XIII",
+    "2008_Winner":"Waseem Akhter",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":195977,
+    "2013_Female":146668,
+    "2002_winner":"Syeed Safwan ullah",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.870163788339315, 67.06524349162191"
+  },
+  "NA-252": {
+    "Area":"Karachi-XIV",
+    "2008_Winner":"Abdul Rasheed Godal",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":172608,
+    "2013_Female":148583,
+    "2002_winner":"Mr.Muhammad Hussain Mehanti",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"24.892815469467166, 67.04417974807052"
+  },
+  "NA-253": {
+    "Area":"Karachi-XV",
+    "2008_Winner":"SYED HAIDER ABBAS RIZVI",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":293072,
+    "2013_Female":226782,
+    "2002_winner":"Mr.Asad Ullah Bhutto",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"24.942088907282745, 67.12657727969633"
+  },
+  "NA-254": {
+    "Area":"Karachi-XVI",
+    "2008_Winner":"Dr. Mohammad Ayub Sheikh",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":228142,
+    "2013_Female":150570,
+    "2002_winner":"Nawab Mirza Advocate",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.82607183218108, 67.09967052079458"
+  },
+  "NA-255": {
+    "Area":"Karachi-XVII",
+    "2008_Winner":"Syed Asif Hasnain",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":200385,
+    "2013_Female":146892,
+    "2002_winner":"Mr.Mahmood Ahmed Qureshi",
+    "2002_party":"Mohajar Qaumi Movement Pakistan",
+    "geometry":"24.855203831718114, 67.1539134418781"
+  },
+  "NA-256": {
+    "Area":"Karachi-XVIII",
+    "2008_Winner":"IQBAL MUHAMMAD ALI KHAN",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":238142,
+    "2013_Female":221043,
+    "2002_winner":"Mr.Iqbal Muhammad Ali khan",
+    "2002_party":"Muthida Qaumi Movement",
+    "geometry":"24.890866471644504, 67.11923777716447"
+  },
+  "NA-257": {
+    "Area":"Karachi-XIX",
+    "2008_Winner":"Sajid Ahmed",
+    "2008_Party":"Muttahida Qaumi Movement (MQM)",
+    "2013_Male":194852,
+    "2013_Female":178124,
+    "2002_winner":"Mr.Muhammad Shamim Siddiqui",
+    "2002_party":"Muttahida Qaumi Movement (MQM)",
+    "geometry":"24.946443132971602, 67.21802167432861"
+  },
+  "NA-258": {
+    "Area":"Karachi-XX",
+    "2008_Winner":"Sher Muhammad Baloch",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":232247,
+    "2013_Female":160747,
+    "2002_winner":"Mr.Sher Muhammad Baloch",
+    "2002_party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "geometry":"24.87384632809424, 67.33734567478837"
+  },
+  "NA-259": {
+    "Area":"Quetta",
+    "2008_Winner":"Syed Nasir Ali Shah alias Syed Abbas",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":146721,
+    "2013_Female":112159,
+    "2002_winner":"Molvi Noor Muhammad",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"30.205980644226578, 67.01573624969296"
+  },
+  "NA-260": {
+    "Area":"Quetta-Chaaghi",
+    "2008_Winner":"Sardar Al-Haaj Muhammad Umar Goragaje",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":255630,
+    "2013_Female":168369,
+    "2002_winner":"Hafiz Hussain Ahmed",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"28.697746972400626, 63.80475836067319"
+  },
+  "NA-261": {
+    "Area":"Pashin-cum-Ziarat",
+    "2008_Winner":"Molvi Agha Muhammad",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":138109,
+    "2013_Female":110854,
+    "2002_winner":"Haji Gul Muhammad Dummar",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"30.80592516506323, 67.24995158155525"
+  },
+  "NA-262": {
+    "Area":"Qilla Abdullah",
+    "2008_Winner":"Haji Rozuddin",
+    "2008_Party":"Muttahida Majlis-e-Amal (MMA)",
+    "2013_Male":117293,
+    "2013_Female":67456,
+    "2002_winner":"Mr. Mehmood Khan Achakzai",
+    "2002_party":"Pakistan Pakhtoonkhawa Milli Awami Party",
+    "geometry":"30.767442687559136, 66.63005226705889"
+  },
+  "NA-263": {
+    "Area":"Loralai-cum-Musakhel-cum-Barkhan",
+    "2008_Winner":"Sardar Muhammad Yaqoob Khan Nasir",
+    "2008_Party":"Pakistan Muslim League-Nawaz (PML N)",
+    "2013_Male":121158,
+    "2013_Female":93061,
+    "2002_winner":"SardarYaqoob Khan Nasir",
+    "2002_party":"Pakistan Muslim League-Nawaz (PML N)",
+    "geometry":"30.44481206178546, 69.21989811421622"
+  },
+  "NA-264": {
+    "Area":"Zhob-cum-Sherani-cum-Killa Saifullah",
+    "2008_Winner":"Moulvi Asmatullah",
+    "2008_Party":"Independent",
+    "2013_Male":121321,
+    "2013_Female":95218,
+    "2002_winner":"Maulvi Muhammad Khan Sherani",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"31.28486834566641, 69.24877267764055"
+  },
+  "NA-265": {
+    "Area":"Dera Bugti-cum-Kohlu-Sibi",
+    "2008_Winner":"Mir Ahmadan Khan Bugti",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":130510,
+    "2013_Female":81039,
+    "2002_winner":"Mr.Haider Bugti",
+    "2002_party":"Jamhoori Wattan Party",
+    "geometry":"29.853686010951357, 68.9218947814577"
+  },
+  "NA-266": {
+    "Area":"Nasirabad",
+    "2008_Winner":"Taj Muhammad Jamali",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":220682,
+    "2013_Female":188813,
+    "2002_winner":"Haji Mir Zafarullah Khan Jamali",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"28.734961271380527, 68.18407007824294"
+  },
+  "NA-267": {
+    "Area":"Bolan",
+    "2008_Winner":"Mir Hamayun Aziz Kurd.",
+    "2008_Party":"Independent",
+    "2013_Male":88586,
+    "2013_Female":59056,
+    "2002_winner":"Sardar Yar Muhammad Rind",
+    "2002_party":"National Alliance",
+    "geometry":"28.8889968782138, 67.6305164993206"
+  },
+  "NA-268": {
+    "Area":"Kalat-cum-Mastung",
+    "2008_Winner":"Dr. Ayatullah Durrani",
+    "2008_Party":"Pakistan Peoples Party Parliamentarians (PPPP)",
+    "2013_Male":110326,
+    "2013_Female":79925,
+    "2002_winner":"Maulana Abdul Ghafoor Haidri",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"29.02359095573956, 66.52714725911369"
+  },
+  "NA-269": {
+    "Area":"Khuzdar",
+    "2008_Winner":"Muhammad Usman Advocate",
+    "2008_Party":"Independent",
+    "2013_Male":96468,
+    "2013_Female":6912,
+    "2002_winner":"Mr.Abdur Rauf Mengal",
+    "2002_party":"Balochistan National Party",
+    "geometry":"27.80605069701427, 66.63256522627057"
+  },
+  "NA-270": {
+    "Area":"Lasbela/Awaran",
+    "2008_Winner":"Jam Mir Muhammad Yousuf",
+    "2008_Party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "2013_Male":137208,
+    "2013_Female":103143,
+    "2002_winner":"Pir Abdul Qadir Al-Gillani",
+    "2002_party":"Pakistan Muslim League Quaid-e-Azam (PML Q)",
+    "geometry":"26.11174741623049, 65.36462682641206"
+  },
+  "NA-271": {
+    "Area":"Kharan",
+    "2008_Winner":"Lt. Gen. (R) Abdul Qadir",
+    "2008_Party":"Independent",
+    "2013_Male":85993,
+    "2013_Female":72092,
+    "2002_winner":"Moulvi Rehmatullah",
+    "2002_party":"Muttahidda Majlis-e-Amal Pakistan (MMA)",
+    "geometry":"27.669855864011588, 64.60219875105395"
+  },
+  "NA-272": {
+    "Area":"Kech-cum-Gwadar",
+    "2008_Winner":"Yaqoob Bizinjo",
+    "2008_Party":"Balochistan National Party (BNP)",
+    "2013_Male":144489,
+    "2013_Female":123177,
+    "2002_winner":"Mrs. Zubada Jalal",
+    "2002_party":"Independent",
+    "geometry":"26.07227387586513, 62.92764086616262"
+  }
+}

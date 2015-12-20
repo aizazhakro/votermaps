@@ -1,0 +1,25 @@
+{
+  "name": "votermaps",
+  "version": "3.0.0",
+  "description": "VoterMaps Web Application",
+  "main": "app.js",
+  "scripts": {
+    "build": "browserify src/entrypoint.js > dist/app.js",
+    "uglify": "uglifyjs --compress --mangle -- dist/app.js > dist/out.js",
+    "watch-js": "watchify src/*.js -o dist/app.js -dv",
+    "run": "ws -p 8001 -d dist/ -c"
+  },
+  "author": "Aizaz Hakro",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "local-web-server": "^0.5.24",
+    "promise": "^7.0.4",
+    "uglify-js": "^2.6.1",
+    "watchify": "^3.6.1"
+  }
+}
