@@ -1,0 +1,261 @@
+html 
+{ 
+    height: 100%; 
+}
+
+body 
+{ 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+}
+
+#map_canvas 
+{ 
+    height: 100%;
+}
+
+.div_ctrl_level0 
+{
+    padding : 2px;
+}
+
+.div_ctrl_level1
+{
+}
+
+.div_ctrl_level2
+{
+    font-family : Arial,sans-serif; 
+    font-size : 14px; 
+    text-align : center;
+    padding-left : 1px ; 
+    padding-right : 1px; 
+    color : black;
+}
+          
+.vertical_red_green_gradient
+{
+	height: 10px; 
+	width:  100%;
+	/*border: 1px solid black;*/ 
+	text-align:center; 
+    /* For any browser that can't create a gradient  */
+    background-color: #EFEFEF;
+    
+	/*background: -webkit-linear-gradient(red, yellow, green);*/
+	background: -webkit-linear-gradient(left, red, yellow, green);
+    /*//mozilla*/
+    
+    background: -moz-linear-gradient(left, #FF0000, #00FF00);
+    
+    /*IE 6/7 */ filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#FF0000',EndColorStr='#00FF00');
+    /*IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0000, endColorstr=#00FF00)";
+	
+}
+
+.wrapper_div
+{
+	width: 100%;  
+	overflow: hidden;
+	font-family : Arial,sans-serif; 
+	font-size : 12px;
+	/* 
+	padding-left : 4px ; 
+	padding-right : 4px;
+	*/ 
+	color : black
+}
+
+.left_div
+{
+    float: left; 
+    text-align:left;
+}
+
+.right_div
+{
+    float: right; 
+    text-align:right;
+}
+
+.effect_div {	 
+    /*margin: 2px;*/ 
+}
+
+table{
+    border-collapse:collapse;
+    border:0px solid black;
+    text-align : center;
+}
+
+table td.polls_td{
+    border:1px solid #ADADAD;
+    text-align : center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+table td.polls_td_header{
+    border:1px solid #ADADAD;
+    text-align : center;
+    background-color : black;
+    color : white;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+table td.polls_td_header_results{
+    border:1px solid #ADADAD;
+    text-align : center;
+    font-weight: heavy;
+    background-color : red;
+    color : white;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+table td.polls_td_master_header{
+    border:0px solid #ADADAD;
+    text-align : center;
+    background-color : #093A01;
+    color : white;
+    padding-top: 2px;
+    /*
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+    */
+}
+
+
+.legend_table {
+    border-collapse:collapse; 
+    border:0px solid black;
+}
+
+table td.legend_icon {
+    border:0px solid black;
+    vertical-align: middle;
+    padding-top : 3px;  
+}
+
+table td.legend_desc {
+    border:0px solid black;
+    padding-left: 8px; 
+    text-align: left;
+    vertical-align: middle;
+    font-family : Arial,sans-serif; 
+    font-size : 14px;  
+    color : black;
+}
+
+table td.legend_desc_jumplist {
+    border:0px solid black;
+    padding-left: 1px; 
+    text-align: left;
+    vertical-align: middle;
+    font-family : Arial,sans-serif; 
+    font-size : 14px;  
+    color : black;
+}
+
+.jump_list {
+    width: 200px;
+}
+
+.jump_list_mobile {
+	width: 65px;
+}
+
+.tick_not_selected {
+    font-family: Arial Unicode MS, Lucida Grande; 
+    font-size : 15px;
+    color: #F1F1F1;
+}
+
+.tick_selected {
+    font-family: Arial Unicode MS, Lucida Grande; 
+    font-size : 15px;
+    color : green;
+}
+
+
+#search_element {
+    font-family : Arial,sans-serif; 
+    font-size : 13px;
+    font-weight: normal;
+    width : 175px; 
+    color : lightgray;
+}
+
+.ui-autocomplete-input {
+	
+    font-family : Arial,sans-serif; 
+    font-size : 12px; 
+    text-align : left; 
+    color : black;
+}
+
+.ui-menu-item {
+	
+    font-family : Arial,sans-serif; 
+    font-size : 12px; 
+    text-align : left; 
+    color : black;
+}
+
+.ui-corner-all {
+	
+    font-family : Arial,sans-serif; 
+    font-size : 12px; 
+    text-align : left; 
+    color : black;
+}
+
+.constituency_label {
+}
+/*
+.chartHeader {	
+    font-family : Arial,sans-serif; 
+    font-size : 12px; 
+    text-align : left; 
+    color : black;
+    background-color: black;
+}
+*/
+
+.titleText {
+	
+    font-family : Arial,sans-serif; 
+    font-size : 15px; 
+    text-align : left;
+    font-weight: bold; 
+    color : white;
+    padding-left: 10%;
+    /*background-color: white;*/
+}
+
+.closeButton { 
+	
+    font-family : Arial,sans-serif; 
+    font-size : 15px;
+    color: #C0C0C0; 
+    /*background-color : white;*/ 
+    text-align: right;
+}
+
+.other_links_class {
+	
+    font-family : Arial,sans-serif; 
+    font-size : 11px;
+    color: #424242;  
+}
