@@ -60325,7 +60325,7 @@ module.exports = Request
 var featureToggles = require('./featureToggles');
 
 var ResourceManager = {
-    GenieIcon : '/res/genie_star.png'
+    GenieIcon : 'res/genie_star.png'
 };
 
 var detailsControl = null;
@@ -60354,7 +60354,7 @@ module.exports = {
     createSocialControls : function() {
         var fb_like_btn = '<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FVotermaps&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=152136251622196" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height: 20px;" allowTransparency="true"></iframe>';
         var tw_follow_btn = '<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=VoterMaps&show_count=false&show_screen_name=false" style="width:60px; height:20px;"></iframe>';
-        var about_btn = '<a style="padding-left : 5px; border : none;"  target="_blank" href="/home.html"><img src="/res/about_clip.png" height="24"/></a>';
+        var about_btn = '<a style="padding-left : 5px; border : none;"  target="_blank" href="/home.html"><img src="res/about_clip.png" height="24"/></a>';
 
         var controlDiv = document.createElement('div');
 
@@ -60421,11 +60421,11 @@ module.exports = {
         controlHtml = controlHtml + '</fieldset>';
         var ht=	'<table class="legend_table">' +
                     '<tr>' +
-                        '<td class="legend_icon"><img src="/res/const_legend.png" width="16"/></td>' +
+                        '<td class="legend_icon"><img src="res/const_legend.png" width="16"/></td>' +
                         '<td class="legend_desc">Constituency</td>' +
                     '</tr>' +
                     '<tr>' +
-                        '<td class="legend_icon"><img src="/res/district_legend.png" width="16"/></td>' +
+                        '<td class="legend_icon"><img src="res/district_legend.png" width="16"/></td>' +
                         '<td class="legend_desc">District</td>' +
                     '</tr>' +
                     '<tr>' +
@@ -60527,6 +60527,7 @@ module.exports = {
         return detailsControl;
     }
 };
+
 },{"./featureToggles":388}],387:[function(require,module,exports){
 var windowObject = require('./window'),
     gMapsLoader = require('./googleMapsLoader');
@@ -60881,7 +60882,7 @@ var windowObject = require('./window'),
     Promise = require('promise');
 
 function host() {
-    return window.location.protocol + '//' + window.location.host + '/';
+    return window.location.protocol + '//' + window.location.host + window.location.pathname + '/'
 }
 
 module.exports = {
@@ -60895,6 +60896,7 @@ module.exports = {
         return promise;
     }
 };
+
 },{"./window":394,"promise":251,"request":260}],394:[function(require,module,exports){
 'use strict';
 
